@@ -1,0 +1,4 @@
+#Fri Nov 27 14:01:44 EET 2020
+base.0=D\:\\Unity\\YunusEmreGunes\\CandyCrushClone\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
